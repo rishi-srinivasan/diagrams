@@ -5,7 +5,7 @@ Repository contains files from the personal project where you can generate archi
 Steps to recreate:
 * brew install python
 * brew install graphviz
-* pip3 install diagrams
+* pip3 install -U -r requirements.txt
 
 Generate image:
 * python3 diagram.py
